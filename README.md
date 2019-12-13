@@ -19,3 +19,4 @@ All assets can be served direcly from Github using [GitCDN](https://gitcdn.xyz).
 
 - [https://gitcdn.xyz/repo/kiwicopple/assets/master/public/img/icons8/fogg/fogg-no-messages-3_800w.png](https://gitcdn.xyz/repo/kiwicopple/assets/master/public/img/icons8/fogg/fogg-no-messages-3_800w.png)
 - [https://gitcdn.xyz/repo/kiwicopple/assets/master/public/img/icons8/fogg/fogg-waiting-1_800w.png](https://gitcdn.xyz/repo/kiwicopple/assets/master/public/img/icons8/fogg/fogg-waiting-1_800w.png)
+
