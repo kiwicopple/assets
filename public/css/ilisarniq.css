@@ -2,19 +2,19 @@
 
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Black.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Black.woff2")
       format("woff2"),
     /* Modern browsers */
-      url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Black.woff")
+      url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Black.woff")
       format("woff"); /* Android, iOS */
   font-style: normal;
   font-weight: 900;
 }
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-BlackItalic.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-BlackItalic.woff2")
       format("woff2"),
-    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-BlackItalic.woff")
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-BlackItalic.woff")
       format("woff");
   font-style: italic;
   font-weight: 900;
@@ -22,18 +22,18 @@
 
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Bold.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Bold.woff2")
       format("woff2"),
-    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Bold.woff")
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Bold.woff")
       format("woff");
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-BoldItalic.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-BoldItalic.woff2")
       format("woff2"),
-    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-BoldItalic.woff")
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-BoldItalic.woff")
       format("woff");
   font-style: italic;
   font-weight: 700;
@@ -41,18 +41,18 @@
 
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Demi.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Demi.woff2")
       format("woff2"),
-    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Demi.woff")
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Demi.woff")
       format("woff");
   font-style: normal;
   font-weight: 500;
 }
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-DemiItalic.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-DemiItalic.woff2")
       format("woff2"),
-    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-DemiItalic.woff")
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-DemiItalic.woff")
       format("woff");
   font-style: italic;
   font-weight: 500;
@@ -60,18 +60,18 @@
 
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Regular.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Regular.woff2")
       format("woff2"),
-    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Regular.woff")
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Regular.woff")
       format("woff");
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Italic.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Italic.woff2")
       format("woff2"),
-    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Italic.woff")
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Italic.woff")
       format("woff");
   font-style: italic;
   font-weight: 400;
@@ -79,18 +79,18 @@
 
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Light.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Light.woff2")
       format("woff2"),
-    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-Light.woff")
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-Light.woff")
       format("woff");
   font-style: normal;
   font-weight: 200;
 }
 @font-face {
   font-family: "Ilisarniq";
-  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-LightItalic.woff2")
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-LightItalic.woff2")
       format("woff2"),
-    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/assets/fonts/ilisarniq/Ilisarniq-LightItalic.woff")
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/ilisarniq/Ilisarniq-LightItalic.woff")
       format("woff");
   font-style: italic;
   font-weight: 200;
