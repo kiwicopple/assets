@@ -1,6 +1,7 @@
 const path = require("path");
 const sharp = require("sharp");
 const glob = require("glob");
+const fs = require('fs');
 
 /**
  * Images
@@ -47,11 +48,12 @@ const moveSvgs = () => {
       const outputName = imgName + imgExt;
 
       const destination = image
-        .replace(inputDir, outputDir)
-        .replace(imgFullName, outputName);
+      .replace(inputDir, outputDir)
+      .replace(imgFullName, outputName);
 
-      await sharp(image)
-        .toFile(destination);
+      fs.copyFile(image, destination, (err) => {
+        if (err) throw err
+      });
     } catch (error) {
       console.log(`${image} error`, error);
     }
