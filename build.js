@@ -44,7 +44,7 @@ const moveSvgs = () => {
       const imgFullName = path.basename(image);
       const imgExt = image.substr(image.lastIndexOf("."));
       const imgName = imgFullName.replace(imgExt, "");
-      const outputName = imgName + "_" + width + "w" + imgExt;
+      const outputName = imgName + imgExt;
 
       const destination = image
         .replace(inputDir, outputDir)
