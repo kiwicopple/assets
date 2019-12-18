@@ -14,8 +14,9 @@ var allImages = glob.sync(`${inputDir}**/*.png`, {
 });
 const widths = [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000];
 const buildImages = () => {
-  widths.map(width => {
-    allImages.map(async image => {
+  widths.map((width, i) => {
+    console.log(`Resizing to ${width}`)
+    allImages.map(async (image) => {
       try {
         const imgFullName = path.basename(image);
         const imgExt = image.substr(image.lastIndexOf("."));
