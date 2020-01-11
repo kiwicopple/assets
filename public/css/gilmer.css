@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Gilmer";
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/gilmer/gilmer-light.woff2") format("woff2"),
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/gilmer/gilmer-light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/gilmer/gilmer-regular.woff2") format("woff2"),
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/gilmer/gilmer-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/gilmer/gilmer-medium.woff2") format("woff2"),
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/gilmer/gilmer-medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/gilmer/gilmer-bold.woff2") format("woff2"),
+    url("https://gitcdn.xyz/repo/kiwicopple/assets/master/public/fonts/gilmer/gilmer-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
