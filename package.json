@@ -15,7 +15,7 @@
     "@docusaurus/preset-classic": "^2.0.0-alpha.39",
     "classnames": "^2.2.6",
     "glob": "^7.1.6",
-    "sharp": "^0.23.4",
+    "sharp": "^0.30.5",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
